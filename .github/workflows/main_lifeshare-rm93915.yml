@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'lifeshare-rm93915'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC8C0CC87A7541D093DCAF6FDA9C38B2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12F6A210768C45B9961C280C59061F57 }}
           package: .
